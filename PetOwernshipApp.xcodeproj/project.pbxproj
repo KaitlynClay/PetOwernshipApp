@@ -17,6 +17,8 @@
 		3F3A27622BA5036D0051C218 /* PetOwernshipAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3A27612BA5036D0051C218 /* PetOwernshipAppTests.swift */; };
 		3F3A276C2BA5036D0051C218 /* PetOwernshipAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3A276B2BA5036D0051C218 /* PetOwernshipAppUITests.swift */; };
 		3F3A276E2BA5036D0051C218 /* PetOwernshipAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3A276D2BA5036D0051C218 /* PetOwernshipAppUITestsLaunchTests.swift */; };
+		3F3A277B2BA504470051C218 /* dog-1728494_1280.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F3A277A2BA504470051C218 /* dog-1728494_1280.png */; };
+		3F3A277D2BA504690051C218 /* dog-48490_1280.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F3A277C2BA504690051C218 /* dog-48490_1280.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		3F3A27672BA5036D0051C218 /* PetOwernshipAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PetOwernshipAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F3A276B2BA5036D0051C218 /* PetOwernshipAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetOwernshipAppUITests.swift; sourceTree = "<group>"; };
 		3F3A276D2BA5036D0051C218 /* PetOwernshipAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetOwernshipAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F3A277A2BA504470051C218 /* dog-1728494_1280.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dog-1728494_1280.png"; path = "../../../../Downloads/dog-1728494_1280.png"; sourceTree = "<group>"; };
+		3F3A277C2BA504690051C218 /* dog-48490_1280.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dog-48490_1280.png"; path = "../../../../Downloads/dog-48490_1280.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				3F3A274B2BA5036A0051C218 /* ViewController.swift */,
 				3F3A274D2BA5036A0051C218 /* Main.storyboard */,
 				3F3A27532BA5036C0051C218 /* Assets.xcassets */,
+				3F3A277C2BA504690051C218 /* dog-48490_1280.png */,
+				3F3A277A2BA504470051C218 /* dog-1728494_1280.png */,
 				3F3A27552BA5036C0051C218 /* LaunchScreen.storyboard */,
 				3F3A27582BA5036C0051C218 /* Info.plist */,
 				3F3A27502BA5036A0051C218 /* PetOwernshipApp.xcdatamodeld */,
@@ -237,6 +243,8 @@
 				3F3A27542BA5036C0051C218 /* Assets.xcassets in Resources */,
 				3F3A27572BA5036C0051C218 /* Base in Resources */,
 				3F3A274F2BA5036A0051C218 /* Base in Resources */,
+				3F3A277B2BA504470051C218 /* dog-1728494_1280.png in Resources */,
+				3F3A277D2BA504690051C218 /* dog-48490_1280.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
